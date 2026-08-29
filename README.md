@@ -1,4 +1,4 @@
-# Material del Curso: Programación Orientada a Objetos (POO) en Java
+# Programación Orientada a Objetos (POO)
 
 Bienvenido al repositorio oficial del material de clase dictado por el profesor David Alberto Herrera Alvarez en la Universidad Nacional de Colombia. Este espacio contiene todos los notebooks interactivos y recursos utilizados durante el curso.
 
